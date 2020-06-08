@@ -167,3 +167,4 @@ plot_histogram(result)
 
 #We can see that the last qubit the third one or qubit 2 if we count from 0
 # is always in the 0 state no matter how we measure.
+#The only way to get 0 is if it was in the initialized state before we disentangled Bob's qubit!! Voila it works!! 
